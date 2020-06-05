@@ -1,0 +1,298 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+
+  h1 {
+    font-size: 70px;
+    font-weight: 700;
+    color: white;
+  }
+
+  .header1 {
+    font-size: 16.39px;
+    font-weight: bold;
+    color: white
+  }
+
+  .head1 {
+    font-size: 12px;
+    font-weight: bold;
+    color: white
+  }
+
+  .words1 {
+    font-size: 21px;
+    color: white;
+  }
+
+  .wd1 {
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+  }
+
+  .wd2 {
+    font-size: 9px;
+    color: white;
+  }
+
+  .but2 {
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 10px;
+    color: #242526;
+    background-color: white;
+    margin-bottom: 40px;
+    width: 150px;
+    height: 42px;
+  }
+
+  .words2 {
+    font-size: 13px;
+    color: #292534;
+  }
+
+  h3 {
+    font-weight: 700;
+    font-size: 44px;
+    color: #242526;
+    padding-top: 70px;
+  }
+
+  .words3 {
+    font-weight: lighter;
+    font-size: 16px;
+    color: #747474;
+    padding-bottom: 70px;
+  }
+
+  .title1 {
+    font-weight: bold;
+    font-size: 13px;
+    color: #242526;
+  }
+
+  .tit1 {
+    font-size: 13px;
+    color: #747474;
+  }
+
+  h4 {
+    font-weight: 600;
+    font-size: 44px;
+    color: white;
+  }
+
+  .words4 {
+    font-weight: lighter;
+    font-size: 16px;
+    color: #bcc6d0;
+    padding-top: 20px;
+    padding-bottom: 70px;
+  }
+
+  .title2 {
+    font-weight: bold;
+    font-size: 12px;
+    color: #242526;
+    padding-top: 20px;
+  }
+
+  .titl2 {
+    font-weight: bold;
+    font-size: 48px;
+    color: #242526;
+  }
+
+  .tit2 {
+    font-size: 12px;
+    color: #242526;
+    padding-bottom: 30px;
+  }
+
+  .ti2 {
+    font-size: 14px;
+    color: #242526;
+  }
+
+  ul {
+    text-align: center;
+    list-style-position: inside;
+    padding-right: 40px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+  }
+
+  .title3 {
+    font-weight: bold;
+    font-size: 12px;
+    color: white;
+    padding-top: 20px;
+  }
+
+  .titl3 {
+    font-weight: bold;
+    font-size: 48px;
+    color: white;
+  }
+
+  .tit3 {
+    font-size: 12px;
+    color: white;
+    padding-bottom: 30px;
+  }
+
+  .ti3 {
+    font-size: 14px;
+    color: white;
+  }
+
+  .title4 {
+    font-weight: lighter;
+    font-size: 14px;
+    color: white;
+    padding-bottom: 52px;
+  }
+
+  .titl4 {
+    font-size: 11px;
+    color: white;
+    background-blend-mode: lighten;
+  }
+
+  .tit4 {
+    font-size: 10px;
+    color: #242525;
+    width: 145px;
+    text-align: center;
+  }
+
+  .foot1 {
+    font-weight: bold;
+    font-size: 11px;
+    color: #242526;
+  }
+
+  .foo1 {
+    font-weight: lighter;
+    font-size: 11px;
+    color: #242526;
+  }
+
+  .fo1 {
+    font-size: 10px;
+    color: #242526;
+  }
+
+  .side-pad {
+    padding-right: 15px;
+  }
+
+  &.v2 {
+    color: black;
+  }
+
+  .but3 {
+    border-radius: 30px;
+    border-color: white;
+    font-weight: bold;
+    font-size: 10px;
+    color: white;
+    background-color: #0cb3f8;
+    width: 140px;
+    height: 40px;
+  }
+
+    .butt {
+      border-radius: 15px;
+      font-weight: bold;
+      font-size: 9px;
+      color: white;
+      width: 60px;
+      height: 22px;
+      box-shadow: 0px 4px 13px #a0caf2;
+      padding-left: 10px;
+    }
+
+  .row {
+
+    &.nav-pad {
+      padding-top: 20px;
+      padding-bottom: 30px;
+    }
+
+    &.hero-image {
+      background: rgb(12,179,248);
+    }
+
+    &.part2 {
+      background: white;
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+
+    &.part3 {
+      background: #f5f4f4;
+      padding-bottom: 70px;
+    }
+
+    &.part4 {
+      background: #222222;
+      padding-top: 70px;
+      padding-bottom: 90px;
+    }
+
+    &.part5 {
+      background-image: url('images/mtn.png');
+      padding-top: 65px;
+      padding-bottom: 78px;
+    }
+
+    &.part6 {
+      background: white;
+      padding-top: 70px;
+      padding-bottom: 20px;
+    }
+
+    &.part7 {
+      background: white;
+      padding-top: 10px;
+      padding-bottom: 80px;
+    }
+
+    .but3 {
+      border-radius: 30px;
+      border-color: white;
+      font-weight: bold;
+      font-size: 10px;
+      color: white;
+      background-color: #0cb3f8;
+      width: 140px;
+      height: 40px;
+    }
+
+      .butt {
+        border-radius: 15px;
+        font-weight: bold;
+        font-size: 9px;
+        color: white;
+        width: 60px;
+        height: 22px;
+        box-shadow: 0px 4px 13px #a0caf2;
+        padding-left: 10px;
+      }
+
+    .price {
+      background: white;
+      border-radius: 5px;
+      padding-top: 20px;
+      padding-bottom: 10px;
+      &.alt {
+        background: #1b8bf9;
+      }
+    }
+  }
+}
+
+.test {
+  font: red;
+}
